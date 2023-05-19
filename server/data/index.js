@@ -1,4 +1,4 @@
-// dummies for testing 
+// dummies for testing, mock data 
 
 import mongoose from "mongoose";
 
